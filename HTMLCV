@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Online CV</title>
+</head>
+<body>
+    <!-- Heading -->
+    <header>
+        <h1>Zeemal Amir</h1>
+        <p>Email: zeemal12@gmail.com | Phone: (0333599)</p>
+        <p>Location: lahore </p>
+    </header>
+    <hr>
+
+    <!-- Image -->
+    <img src="img33.jpeg" alt="Profile Picture" style="width:150px;height:150px;">
+
+    <!-- Educational Background -->
+    <section>
+        <h2>Educational Background</h2>
+        <ul>
+            <li><strong>Bachelor of Science in Computer Science</strong> -  University of management technology (2021-2025)</li>
+            <li><strong>High School Diploma</strong> - Cathedral High School (2018-2020)</li>
+        </ul>
+    </section>
+
+    <!-- Work Experience -->
+    <section>
+        <h2>Work Experience</h2>
+        <ul>
+            <li><strong>Software Developer</strong> - NESTOSH Company (2024 Present)</li>
+            <li><strong>Intern</strong> - Saleforce  (2024)</li>
+        </ul>
+    </section>
+
+    <!-- Technical Skills -->
+    <section>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming Languages: HTML, CSS, JavaScript, Python</li>
+            <li>Web Development: HTML5, CSS3, Bootstrap, React</li>
+            <li>Database Management: MySQL, PostgreSQL</li>
+        </ul>
+    </section>
+
+    <!-- Professional Competencies -->
+    <section>
+        <h2>Professional Competencies</h2>
+        <ul>
+            <li>Problem-solving and critical thinking</li>
+            <li>Effective communication and teamwork</li>
+            <li>Time management and organization</li>
+        </ul>
+    </section>
+
+    <!-- Life Goals -->
+    <section>
+        <h2>Life Goals</h2>
+        <p>My ultimate goal is to become a leading expert in the field of software engineering, creating solutions that positively impact people's lives. I also aim to constantly learn and grow both personally and professionally.</p>
+    </section>
+
+    <!-- Personal Interests -->
+    <section>
+        <h2>Personal Interests</h2>
+        <ul>
+            <li>Reading technology blogs</li>
+            <li>Playing basketball</li>
+            <li>Traveling and exploring new cultures</li>
+        </ul>
+    </section>
+
+    <!-- Contact Details -->
+    <section>
+        <h2>Contact Details</h2>
+        <p>Social Media:</p>
+        <ul>
+            <li> Email:<a href="f2021266058@UMT.EDU.PK" target="_blank">Email</a></li>
+            <li>LinkedIn: <a href="https://linkedin.com/in/zeemal12" target="_blank">LinkedIn</a></li>
+            
+        </ul>
+    </section>
+
+    <!-- Table Example -->
+    <section>
+        <h2>Certifications</h2>
+        <table border="1">
+            <tr>
+                <th>Certification</th>
+                <th>Organization</th>
+                <th>Year</th>
+            </tr>
+            <tr>
+                <td>Web Development Certification</td>
+                <td>Nestosh</td>
+                <td>2023</td>
+            </tr>
+            <tr>
+                <td>Python Programming Certificate</td>
+                <td>Nestosh</td>
+                <td>2024</td>
+            </tr>
+        </table>
+    </section>
+
+    <!--  YouTube Video -->
+    <section>
+        <h2>Inspirational Video</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/wnHW6o8WMas" title="YouTube video" allowfullscreen></iframe>
+    </section>
+
+    <!-- Audio -->
+    <section>
+        <h2>Favorite Motivational Quote</h2>
+        <audio controls>
+            <source src="motivational-music-243042.mp3" type="audio/mp3">
+          
+        </audio>
+    </section>
+
+    <!-- Icons -->
+    <section>
+      <h2>Social Media Icons</h2>
+      <p>
+         <a href="https://twitter.com/zemalamir" target="_blank"><i class="fab fa-twitter"></i> Twitter |</a>
+         <a href="https://instagram.com/zeemalamirr" target="_blank"><i class="fab fa-twitter"></i> Instagram </a>
+          
+      </p>
+      
+        
+    </section>
+</body>
+</html>
